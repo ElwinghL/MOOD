@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: d039311f26f810f4ea28f5cb2b2342f8
+timeCreated: 1510962589
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: george_0
+    21300002: george_1
+    21300004: george_2
+    21300006: george_3
+    21300008: george_4
+    21300010: george_5
+    21300012: george_6
+    21300014: george_7
+    21300016: george_8
+    21300018: george_9
+    21300020: george_10
+    21300022: george_11
+    21300024: george_12
+    21300026: george_13
+    21300028: george_14
+    21300030: george_15
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: george_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 149
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 150
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 149
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 101
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 101
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 53
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: george_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -83, y: -57}
+      - {x: -88, y: -59}
+      - {x: -88, y: -83}
+      - {x: -87, y: -87}
+      - {x: -79, y: -93}
+      - {x: -59, y: -93}
+      - {x: -55, y: -78}
+      - {x: -55, y: -58}
+      - {x: -56, y: -57}
+    - - {x: -42, y: -57}
+      - {x: -42, y: -80}
+      - {x: -36, y: -93}
+      - {x: -20, y: -93}
+      - {x: -10, y: -80}
+      - {x: -10, y: -59}
+      - {x: -16, y: -57}
+    - - {x: 37, y: -57}
+      - {x: 13, y: -57}
+      - {x: 8, y: -64}
+      - {x: 8, y: -87}
+      - {x: 15, y: -93}
+      - {x: 34, y: -93}
+      - {x: 37, y: -88}
+      - {x: 41, y: -78}
+      - {x: 41, y: -63}
+    - - {x: 58, y: -57}
+      - {x: 57, y: -58}
+      - {x: 57, y: -78}
+      - {x: 63, y: -93}
+      - {x: 81, y: -93}
+      - {x: 89, y: -76}
+      - {x: 89, y: -58}
+      - {x: 86, y: -57}
+    - - {x: -40, y: -9}
+      - {x: -42, y: -12}
+      - {x: -42, y: -26}
+      - {x: -41, y: -32}
+      - {x: -34, y: -42}
+      - {x: -29, y: -45}
+      - {x: -24, y: -45}
+      - {x: -10, y: -32}
+      - {x: -10, y: -11}
+      - {x: -16, y: -9}
+    - - {x: 63, y: -9}
+      - {x: 57, y: -11}
+      - {x: 57, y: -33}
+      - {x: 65, y: -44}
+      - {x: 68, y: -45}
+      - {x: 81, y: -45}
+      - {x: 89, y: -27}
+      - {x: 89, y: -9}
+    - - {x: -62, y: -9}
+      - {x: -85, y: -9}
+      - {x: -88, y: -14}
+      - {x: -88, y: -42}
+      - {x: -81, y: -44}
+      - {x: -60, y: -44}
+      - {x: -57, y: -39}
+      - {x: -55, y: -28}
+      - {x: -55, y: -13}
+    - - {x: 11, y: -9}
+      - {x: 8, y: -10}
+      - {x: 8, y: -35}
+      - {x: 15, y: -44}
+      - {x: 37, y: -44}
+      - {x: 41, y: -39}
+      - {x: 41, y: -12}
+      - {x: 40, y: -9}
+    - - {x: -82, y: 39}
+      - {x: -88, y: 37}
+      - {x: -88, y: 12}
+      - {x: -86, y: 6}
+      - {x: -78, y: 3}
+      - {x: -62, y: 3}
+      - {x: -55, y: 14}
+      - {x: -55, y: 36}
+      - {x: -57, y: 39}
+    - - {x: -38, y: 39}
+      - {x: -42, y: 37}
+      - {x: -42, y: 22}
+      - {x: -36, y: 3}
+      - {x: -17, y: 3}
+      - {x: -14, y: 4}
+      - {x: -10, y: 18}
+      - {x: -10, y: 34}
+      - {x: -15, y: 39}
+    - - {x: 9, y: 39}
+      - {x: 8, y: 36}
+      - {x: 8, y: 11}
+      - {x: 15, y: 5}
+      - {x: 21, y: 3}
+      - {x: 32, y: 3}
+      - {x: 41, y: 15}
+      - {x: 41, y: 39}
+    - - {x: 83, y: 39}
+      - {x: 60, y: 39}
+      - {x: 57, y: 33}
+      - {x: 57, y: 17}
+      - {x: 65, y: 7}
+      - {x: 69, y: 3}
+      - {x: 79, y: 3}
+      - {x: 86, y: 14}
+      - {x: 89, y: 21}
+      - {x: 89, y: 37}
+    - - {x: -40, y: 87}
+      - {x: -42, y: 84}
+      - {x: -42, y: 63}
+      - {x: -31, y: 51}
+      - {x: -24, y: 51}
+      - {x: -10, y: 64}
+      - {x: -10, y: 85}
+      - {x: -16, y: 87}
+    - - {x: 86, y: 87}
+      - {x: 58, y: 87}
+      - {x: 57, y: 84}
+      - {x: 57, y: 58}
+      - {x: 68, y: 51}
+      - {x: 82, y: 51}
+      - {x: 87, y: 61}
+      - {x: 89, y: 66}
+      - {x: 89, y: 86}
+    - - {x: -88, y: 87}
+      - {x: -88, y: 60}
+      - {x: -85, y: 52}
+      - {x: -58, y: 52}
+      - {x: -55, y: 54}
+      - {x: -55, y: 83}
+      - {x: -57, y: 87}
+    - - {x: 38, y: 87}
+      - {x: 13, y: 87}
+      - {x: 8, y: 86}
+      - {x: 8, y: 60}
+      - {x: 15, y: 52}
+      - {x: 32, y: 52}
+      - {x: 39, y: 57}
+      - {x: 41, y: 67}
+      - {x: 41, y: 82}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
